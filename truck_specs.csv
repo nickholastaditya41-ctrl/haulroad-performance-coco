@@ -1,0 +1,12 @@
+parameter,value,unit,notes
+model,Cat OHT 777-D,,
+gvw_ton,100,ton,Gross Vehicle Weight
+width_m,4.72,m,
+turning_radius_m,9.45,m,
+rr_actual_lb_ton,124,lb/ton,measured in journal
+rr_ideal_lb_ton,65,lb/ton,target after road maintenance
+speed_loaded_actual_kmh,18.59,km/h,journal Table 8
+speed_loaded_ideal_kmh,21.59,km/h,journal Table 8
+speed_empty_actual_kmh,20.73,km/h,journal Table 8
+speed_empty_ideal_kmh,25.59,km/h,journal Table 8
+haul_distance_m,734,m,Jalan Amaris-Novotel
